@@ -1,6 +1,9 @@
 <template>
   <article>
     <h1>{{ title }}</h1>
+    <div class="content">
+      {{body}}
+    </div>
   </article>
 </template>
 
